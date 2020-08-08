@@ -23,7 +23,7 @@ After that, proceed using it just as any other app.
 Press "Q" on the keyboard. If it doesn't respond, click within the app space and try again. 
 
 ## How to access the solution data?
-The app saves all recordings in the *.csv file. Column separator is ",", line separator is <LF>. 
+The app saves all recordings in the *.csv file in the root folder of the app. Column separator is ",", line separator is <LF>. 
 
 There is a header with columns' names in the file. The name of the file consists of data and time when the app was launched. The date/time format in the file name is d.m.YYYY_h.m.s
 
