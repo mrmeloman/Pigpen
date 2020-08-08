@@ -20,7 +20,7 @@ Processing will generate a folder(s) with executibles and everything you need to
 After that, proceed using it just as any other app. 
 
 ### How do I close it?
-Press "Q" on the keyboard.
+Press "Q" on the keyboard. If it doesn't respond, click within the app space and try again. 
 
 ## How to access the solution data?
 The app saves all recordings in the *.csv file. Column separator is ",", line separator is <LF>. 
