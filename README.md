@@ -9,8 +9,8 @@ It was tested on ~150 participants, using touch tablet PCs.
 The project has lots of weak points, so, please: **if you use it - improve it** at least a bit.
 
 ## If you want to just start using it:
-1. Go to processing.org and download the latest version of [Processing IDE] (https://processing.org/download/)
-2. Download the last version of [Java] (https://www.java.com/)
+1. Download the latest version of [Processing IDE](https://processing.org/download/)
+2. Download the last version of [Java](https://www.java.com/)
 3. Download this project, it has all the source code
 4. All of the project files must be inside of the folder named "pigpen"
 5. Open pigpen.pde in Processing IDE
