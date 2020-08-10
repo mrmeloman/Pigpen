@@ -1,7 +1,7 @@
 # Pigpen
 This is an app for presenting a ["Pigs in the pen" problem](https://psycnet.apa.org/record/1993-36184-001), or Pigpen problem, to the solvers. It allows recording of the solving process in CSV on ~50 FPS. It doesn't provide a solution detection, as it seems really complicated. If you want to add it, feel free to work on it. 
 
-The code is written in [Processing](https://processing.org/) using Java. 
+Made with [Processing](https://processing.org/) 3.5.3 using Java. 
 
 The project was created during my Master's course in National Research University "Higher School of Economics".
 It was tested on ~150 participants, using touch tablet PCs. 
@@ -23,13 +23,13 @@ After that, proceed using it just as any other app.
 Press "Q" on the keyboard. If it doesn't respond, click within the app space and try again. 
 
 ## How to access the solution data?
-The app saves all recordings in the *.csv file in the root folder of the app. Column separator is ",", line separator is LF. 
+The app saves all recordings in the \*.csv file in the root folder of the app. Column separator is ",", line separator is LF. 
 
 There is a header with columns' names in the file. The name of the file consists of data and time when the app was launched. The date/time format in the file name is d.m.YYYY_h.m.s
 
 Example: 7.6.2018_22.17.19
 
-In the *.csv file, each line represents an action.
+In the \*.csv file, each line represents an action.
 The headers in the file are:
 - **time**: time in milliseconds, since the app was launched
 - **x**: x (horizontal) coordinate of the action
